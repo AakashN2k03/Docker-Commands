@@ -1,7 +1,5 @@
 # 🐳 Docker Terminal Cheat Sheet
 
-A beginner-friendly guide to the most common Docker commands you'll use daily.
-
 ---
 
 ## 1️⃣ Check Version
