@@ -104,4 +104,7 @@ docker build -t myapp:v1 .
 💡 **Pro Tip:**  
 Always run `docker ps` before stopping or removing containers to confirm their IDs.
 
+***Others***
+- docker run --name sample1 nginx  (if u want to run the container by name)
+- docker start sample1 (Start an Existing Container by Name)
 ---
